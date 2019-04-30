@@ -1,5 +1,7 @@
 # fetch_ES_by_selenium
 
+<img src="https://github.com/shutokawabata0723/make_dictionary_by_JS/blob/master/js.gif" width="1000px">
+
 ```python
 coding:utf-8
 PURPLE  = '\033[35m'
