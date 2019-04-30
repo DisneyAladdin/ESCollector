@@ -1,4 +1,4 @@
-# Full automatic fetching tool by Python Selenium
+# Automatic fetching tool by Python Selenium
 This is a full automatic fetching tool with Python Selenium module.  
 By using this tool, you can automatically obtain any Web pages even these pages require "user login".
 <img src="https://github.com/shutokawabata0723/fetch_ES_by_selenium/blob/master/demo1.gif" width="1000px">
