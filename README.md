@@ -1,5 +1,5 @@
 # fetch_ES_by_selenium
-This is a full automatic page fetching tool with Python Selenium module.  
+This is a full automatic fetching tool with Python Selenium module.  
 <img src="https://github.com/shutokawabata0723/fetch_ES_by_selenium/blob/master/demo1.gif" width="1000px">
 <img src="https://github.com/shutokawabata0723/fetch_ES_by_selenium/blob/master/demo2.gif" width="1000px">
 <img src="https://github.com/shutokawabata0723/fetch_ES_by_selenium/blob/master/demo3.png" width="1000px">
