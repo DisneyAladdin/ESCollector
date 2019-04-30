@@ -1,6 +1,6 @@
 # Automatic fetching tool by Python Selenium
 This is a full automatic fetching tool with Python Selenium module.  
-By using this tool, you can automatically obtain any Web pages even these pages require "user login".
+By using this tool, you can automatically obtain any Web pages even these pages require "user login" from browser.
 <img src="https://github.com/shutokawabata0723/fetch_ES_by_selenium/blob/master/demo1.gif" width="1000px">
 First of all, pass user login because seeing specific Web pages(entry sheet/interview/OB visit) requires it as a member of the domain. After that process, the tool fetches all links to the Web pages.
 <img src="https://github.com/shutokawabata0723/fetch_ES_by_selenium/blob/master/demo2.gif" width="1000px">
