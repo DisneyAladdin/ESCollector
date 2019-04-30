@@ -24,8 +24,8 @@ def extractor(html):
     return text
 
 
-email = 'k.nishikawa0309@gmail.com'
-password = 'nisigonn1'
+email = 'Please input your E-mail address'
+password = 'Please input your password'
 LOGIN_URL= 'https://unistyleinc.com/'
 
 # Log in
